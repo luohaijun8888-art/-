@@ -19,15 +19,6 @@
       "version": 0
     },
     {
-      "id": 10,
-      "device_code": "CNC-02",
-      "device_type": "cnc",
-      "device_name": "雕刻机-02",
-      "setup_time": 15,
-      "is_active": 1,
-      "version": 0
-    },
-    {
       "id": 5,
       "device_code": "EA-01",
       "device_type": "edge_auto",
@@ -216,7 +207,7 @@
       "device_type": "pack"
     }
   ],
-  "timestamp": "2026-06-27T01:37:47.381Z",
+  "timestamp": "2026-06-27T01:38:01.989Z",
   "version": 1,
-  "backup_reason": "添加设备 CNC-02"
+  "backup_reason": "删除设备 CNC-02"
 }
