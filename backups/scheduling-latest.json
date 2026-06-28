@@ -543,9 +543,9 @@
       "id": 68,
       "product_id": 14,
       "material_type": "edge_band",
-      "status": "not_purchased",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-06-28 13:27:37"
+      "updated_at": "2026-06-28 13:30:26"
     },
     {
       "id": 66,
@@ -1824,7 +1824,7 @@
       "material_ready": 0
     }
   ],
-  "timestamp": "2026-06-28T13:29:37.421Z",
+  "timestamp": "2026-06-28T13:30:26.029Z",
   "version": 2,
   "backup_reason": "物料状态更新"
 }
