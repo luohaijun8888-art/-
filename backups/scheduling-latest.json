@@ -877,17 +877,17 @@
       "id": 83,
       "product_id": 17,
       "material_type": "edge_band",
-      "status": "not_purchased",
-      "expected_date": "",
-      "updated_at": "2026-06-28 13:27:37"
+      "status": "purchased",
+      "expected_date": "2026-07-06",
+      "updated_at": "2026-06-29 14:09:47"
     },
     {
       "id": 81,
       "product_id": 17,
       "material_type": "hardware",
-      "status": "purchased",
-      "expected_date": "2026-07-06",
-      "updated_at": "2026-06-29 14:09:42"
+      "status": "arrived",
+      "expected_date": "",
+      "updated_at": "2026-06-29 14:09:44"
     },
     {
       "id": 85,
@@ -2038,7 +2038,7 @@
       "material_ready": 0
     }
   ],
-  "timestamp": "2026-06-29T14:09:42.086Z",
+  "timestamp": "2026-06-29T14:09:47.899Z",
   "version": 2,
   "backup_reason": "物料状态更新"
 }
