@@ -1309,9 +1309,9 @@
       "id": 137,
       "product_id": 28,
       "material_type": "board",
-      "status": "not_purchased",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-06-28 13:27:37"
+      "updated_at": "2026-06-29 13:45:15"
     },
     {
       "id": 138,
@@ -2038,7 +2038,7 @@
       "material_ready": 0
     }
   ],
-  "timestamp": "2026-06-28T13:37:53.823Z",
+  "timestamp": "2026-06-29T13:45:15.543Z",
   "version": 2,
   "backup_reason": "物料状态更新"
 }
