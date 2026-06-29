@@ -46,6 +46,15 @@
       "version": 0
     },
     {
+      "id": 11,
+      "device_code": "PK-02",
+      "device_type": "pack",
+      "device_name": "包装台-02",
+      "setup_time": 5,
+      "is_active": 1,
+      "version": 0
+    },
+    {
       "id": 4,
       "device_code": "PRS-01",
       "device_type": "press",
@@ -216,6 +225,6 @@
       "device_type": "pack"
     }
   ],
-  "timestamp": "2026-06-29T14:15:54.319Z",
+  "timestamp": "2026-06-29T14:16:45.322Z",
   "version": 1
 }
