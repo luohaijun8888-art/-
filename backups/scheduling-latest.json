@@ -903,9 +903,9 @@
       "id": 81,
       "product_id": 17,
       "material_type": "hardware",
-      "status": "arrived",
+      "status": "not_purchased",
       "expected_date": "",
-      "updated_at": "2026-06-29 14:09:44"
+      "updated_at": "2026-06-29 14:17:42"
     },
     {
       "id": 85,
@@ -2056,7 +2056,7 @@
       "material_ready": 0
     }
   ],
-  "timestamp": "2026-06-29T14:17:35.179Z",
+  "timestamp": "2026-06-29T14:17:42.911Z",
   "version": 2,
   "backup_reason": "物料状态更新"
 }
