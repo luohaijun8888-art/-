@@ -743,7 +743,7 @@
       "material_type": "accessory",
       "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-06-29 13:45:33"
+      "updated_at": "2026-06-29 13:45:38"
     },
     {
       "id": 67,
@@ -773,9 +773,9 @@
       "id": 70,
       "product_id": 14,
       "material_type": "packaging",
-      "status": "not_purchased",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-06-28 13:27:37"
+      "updated_at": "2026-06-29 13:45:33"
     },
     {
       "id": 74,
@@ -2038,6 +2038,6 @@
       "material_ready": 0
     }
   ],
-  "timestamp": "2026-06-29T13:45:33.023Z",
+  "timestamp": "2026-06-29T13:45:38.311Z",
   "version": 2
 }
