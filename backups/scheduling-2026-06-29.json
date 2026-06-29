@@ -367,9 +367,9 @@
       "id": 17,
       "product_id": 4,
       "material_type": "board",
-      "status": "arrived",
+      "status": "not_purchased",
       "expected_date": "",
-      "updated_at": "2026-06-29 14:02:37"
+      "updated_at": "2026-06-29 14:17:51"
     },
     {
       "id": 18,
@@ -2056,6 +2056,6 @@
       "material_ready": 0
     }
   ],
-  "timestamp": "2026-06-29T14:17:42.911Z",
+  "timestamp": "2026-06-29T14:17:51.740Z",
   "version": 2
 }
