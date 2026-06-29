@@ -1311,7 +1311,7 @@
       "material_type": "board",
       "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-06-29 13:45:15"
+      "updated_at": "2026-06-29 13:45:20"
     },
     {
       "id": 138,
@@ -2038,6 +2038,6 @@
       "material_ready": 0
     }
   ],
-  "timestamp": "2026-06-29T13:45:15.543Z",
+  "timestamp": "2026-06-29T13:45:20.183Z",
   "version": 2
 }
