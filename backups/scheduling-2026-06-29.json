@@ -775,7 +775,7 @@
       "material_type": "packaging",
       "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-06-29 13:45:33"
+      "updated_at": "2026-06-29 13:45:42"
     },
     {
       "id": 74,
@@ -2038,6 +2038,6 @@
       "material_ready": 0
     }
   ],
-  "timestamp": "2026-06-29T13:45:38.311Z",
+  "timestamp": "2026-06-29T13:45:42.861Z",
   "version": 2
 }
