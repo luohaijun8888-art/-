@@ -349,9 +349,9 @@
       "id": 17,
       "product_id": 4,
       "material_type": "board",
-      "status": "not_purchased",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-06-28 13:27:37"
+      "updated_at": "2026-06-29 14:02:37"
     },
     {
       "id": 18,
@@ -743,7 +743,7 @@
       "material_type": "accessory",
       "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-06-29 13:45:38"
+      "updated_at": "2026-06-29 13:45:52"
     },
     {
       "id": 67,
@@ -2038,7 +2038,7 @@
       "material_ready": 0
     }
   ],
-  "timestamp": "2026-06-29T13:45:51.615Z",
+  "timestamp": "2026-06-29T14:02:38.021Z",
   "version": 2,
   "backup_reason": "物料状态更新"
 }
