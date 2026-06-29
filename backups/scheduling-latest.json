@@ -743,7 +743,7 @@
       "material_type": "accessory",
       "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-06-29 13:45:27"
+      "updated_at": "2026-06-29 13:45:33"
     },
     {
       "id": 67,
@@ -2038,7 +2038,7 @@
       "material_ready": 0
     }
   ],
-  "timestamp": "2026-06-29T13:45:27.601Z",
+  "timestamp": "2026-06-29T13:45:33.023Z",
   "version": 2,
   "backup_reason": "物料状态更新"
 }
