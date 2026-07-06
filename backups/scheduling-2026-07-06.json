@@ -129,7 +129,7 @@
       "material_type": "accessory",
       "status": "purchased",
       "expected_date": "",
-      "updated_at": "2026-07-06 10:11:17"
+      "updated_at": "2026-07-06 10:12:40"
     },
     {
       "id": 17,
@@ -1852,6 +1852,6 @@
       "material_ready": 0
     }
   ],
-  "timestamp": "2026-07-06T10:11:17.006Z",
+  "timestamp": "2026-07-06T10:12:40.137Z",
   "version": 2
 }
