@@ -19,6 +19,15 @@
       "version": 0
     },
     {
+      "id": 10,
+      "device_code": "QJT-03",
+      "device_type": "clean",
+      "device_name": "清洁台3",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0
+    },
+    {
       "id": 1,
       "device_code": "CNC-01",
       "device_type": "cnc",
@@ -84,6 +93,6 @@
   ],
   "workers": [],
   "worker_skills": [],
-  "timestamp": "2026-07-07T07:20:42.841Z",
+  "timestamp": "2026-07-07T07:21:04.474Z",
   "version": 1
 }
