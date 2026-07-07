@@ -37,6 +37,15 @@
       "version": 0
     },
     {
+      "id": 8,
+      "device_code": "BZT-01",
+      "device_type": "pack",
+      "device_name": "包装台1",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0
+    },
+    {
       "id": 2,
       "device_code": "TTJ-01",
       "device_type": "push_saw",
@@ -66,6 +75,6 @@
   ],
   "workers": [],
   "worker_skills": [],
-  "timestamp": "2026-07-07T07:20:06.540Z",
+  "timestamp": "2026-07-07T07:20:21.064Z",
   "version": 1
 }
