@@ -10,6 +10,15 @@
       "version": 0
     },
     {
+      "id": 9,
+      "device_code": "QJT-02",
+      "device_type": "clean",
+      "device_name": "清洁台2",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0
+    },
+    {
       "id": 1,
       "device_code": "CNC-01",
       "device_type": "cnc",
@@ -75,7 +84,7 @@
   ],
   "workers": [],
   "worker_skills": [],
-  "timestamp": "2026-07-07T07:20:21.064Z",
+  "timestamp": "2026-07-07T07:20:42.841Z",
   "version": 1,
-  "backup_reason": "添加设备 BZT-01"
+  "backup_reason": "添加设备 QJT-02"
 }
