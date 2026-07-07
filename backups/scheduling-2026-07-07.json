@@ -10,6 +10,15 @@
       "version": 0
     },
     {
+      "id": 3,
+      "device_code": "ZDF-01",
+      "device_type": "edge_auto",
+      "device_name": "自动封边机1",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0
+    },
+    {
       "id": 2,
       "device_code": "TTJ-01",
       "device_type": "push_saw",
@@ -21,6 +30,6 @@
   ],
   "workers": [],
   "worker_skills": [],
-  "timestamp": "2026-07-07T07:18:20.951Z",
+  "timestamp": "2026-07-07T07:18:43.411Z",
   "version": 1
 }
