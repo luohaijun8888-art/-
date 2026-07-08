@@ -98,6 +98,15 @@
       "setup_time": 0,
       "is_active": 1,
       "version": 0
+    },
+    {
+      "id": 13,
+      "device_code": "TJJ-01",
+      "device_type": "table_saw",
+      "device_name": "台锯机-1",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0
     }
   ],
   "workers": [
@@ -184,6 +193,6 @@
       "device_type": "pack"
     }
   ],
-  "timestamp": "2026-07-08T06:34:37.211Z",
+  "timestamp": "2026-07-08T06:35:27.207Z",
   "version": 1
 }
