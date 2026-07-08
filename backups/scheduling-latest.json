@@ -64,6 +64,15 @@
       "version": 0
     },
     {
+      "id": 11,
+      "device_code": "YBJ-01",
+      "device_type": "press",
+      "device_name": "冷压机-1",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0
+    },
+    {
       "id": 2,
       "device_code": "TTJ-01",
       "device_type": "push_saw",
@@ -175,7 +184,7 @@
       "device_type": "pack"
     }
   ],
-  "timestamp": "2026-07-07T07:32:07.345Z",
+  "timestamp": "2026-07-08T06:32:35.690Z",
   "version": 1,
-  "backup_reason": "添加人员 李四"
+  "backup_reason": "添加设备 YBJ-01"
 }
